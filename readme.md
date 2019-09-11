@@ -63,13 +63,9 @@ displays a graph of the commits, on commit per line
 
 
 
-
-
-
-
-add
-edit
 commit
+edit
+add
 
 
 						commited
