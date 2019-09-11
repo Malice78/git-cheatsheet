@@ -1,4 +1,11 @@
 __pychache__
 .idea
 .idea/*			( ingore evying in idea sub directory
+venv
+env
+.pytest_cache
+.coverage
+
+# comprehension of .gitignore found at:
+#https://github.com/github/gitignore/blob/master/python.gitignore
 
