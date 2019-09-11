@@ -43,12 +43,19 @@ git commit -m "message"
 ```bash
 git log
 ```
-tells you the history of the commits commited at this point in time
+- tells you the history of the commits commited at this point in time
 
 ```bash
 git alias.CODE "extensions log --all --decorate"
 ```
-can merge extensions of a long command and shortcut it currently have one "git adog"
+- can merge extensions of a long command and shortcut it currently have one "git adog"
+
+```bash
+git remote add origen URL
+https://github.com/Malice78/git-cheatsheet.gi
+```
+- assigns the remote "origin" repository to the url given
+
 
 ```bash
 git log --all --decorate --oneline --graph
