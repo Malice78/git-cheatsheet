@@ -8,9 +8,9 @@ i have added some more stuff but from the origin side
 
 can also use notepad++ "filename.ext" 
 # is the heading
-## is sub heading
-### another subheading
-#### etc
+## i have changed this bit can you tell i cant
+### headings use the # or the "hashtag" symbol EAT IT TWITTER
+#### stuff things and objects
 
 
 
