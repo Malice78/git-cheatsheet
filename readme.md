@@ -48,7 +48,12 @@ tells you the history of the commits commited at this point in time
 ```bash
 git alias.CODE "extensions log --all --decorate"
 ```
-can merge extensions of a long command and shortcut it
+can merge extensions of a long command and shortcut it currently have one "git adog"
+
+```bash
+git log --all --decorate --oneline --graph
+```
+displays a graph of the commits, on commit per line
 
 ## other git things
 
@@ -68,12 +73,12 @@ commit
 
 
 						commited
-						git	|	commit
+					git		|			commit
 							|	
-						git	Stash add
+					git		Stash 		add
 							|	
 							|
-						git	working	add
+					git		working		add
 							|
 							|
 							edit
