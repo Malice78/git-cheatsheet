@@ -41,7 +41,14 @@ git commit -m "message"
 - commits the stashed files to the repo and adds the MESSAGE that describes what was done
 
 ```bash
+git log
+```
+tells you the history of the commits commited at this point in time
 
+```bash
+git alias.CODE "extensions log --all --decorate"
+```
+can merge extensions of a long command and shortcut it
 
 ## other git things
 
