@@ -34,6 +34,7 @@ git add FILENAME ANOTHERFILENAME
 ```
 - adds the file FILENAME and ANOTHERFILENAME to the stash	make sure the files are related to each other
 
+
 ```bash
 git commit -m "message"
 ```
@@ -42,6 +43,9 @@ git commit -m "message"
 ```bash
 
 
+## other git things
+
+**.gitignore** is a file that tells git files/folders that are not to be apart of the repository	( that is - ignored when adding/committing)
 
 
 
