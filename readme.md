@@ -4,6 +4,7 @@ lost everywhere
 git cheatsheet is this file dont lose it
 smackdown of knowledge
 
+i have added some more stuff but from the origin side 
 
 can also use notepad++ "filename.ext" 
 # is the heading
